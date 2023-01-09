@@ -2,7 +2,7 @@
 
 # Gesture Volume Control
 
-The Desktop Assistant is designed to help users with tasks, information, and communication.
+The volume gesture system is a software application that allows users to control the volume of their computer using simple hand gestures detected by a webcam.
 
 ## Description
 
@@ -18,7 +18,7 @@ To use the Gesture Volume Control application, users must first ensure that they
 
 ![Zero Percent](https://github.com/nileshparab42/Gesture-Volume-Control/blob/master/assets/zero-percent.png)
 
-To adjust the volume, users can simply make a hand gesture in front of the webcam. The application will interpret the gesture and adjust the volume accordingly. For example, to increase the volume, users can make a "thumbs up" gesture, and to decrease the volume, they can make a "thumbs down" gesture.
+To adjust the volume, users can simply make a hand gesture in front of the webcam. The application will interpret the gesture and adjust the volume accordingly. by utilising the thumb and the index finger.
 
 
 ![Mid Percent](https://github.com/nileshparab42/Gesture-Volume-Control/blob/master/assets/mid-percent.png)

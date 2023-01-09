@@ -81,5 +81,5 @@ The application will launch and begin detecting and interpreting hand gestures m
 
 ## Acknowledgements
 
-- This project was inspired by the work of the [CodeWithHarry](https://www.youtube.com/@CodeWithHarry).
-- We also used resources and tools from the [GeeksforGeeks](https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/) to develop and test our project.
+- This project was inspired by the work of the [Murtaza's Workshop - Robotics and AI ](https://www.youtube.com/@murtazasworkshop).
+- We also used resources and tools from the [OpenCv](https://opencv.org/) to develop and test our project.

@@ -6,22 +6,33 @@ The Desktop Assistant is designed to help users with tasks, information, and com
 
 ## Description
 
-Desktop Assistant is a virtual assistant designed to help you with tasks and answer your questions. You can interact with Desktop Assistant through natural language, simply by speaking to it.
+This project is a software application that allows users to control the volume of their computer using simple hand gestures. The application uses a webcam to detect and interpret the hand gestures made by the user, and then adjusts the volume of the computer accordingly.
  
-## Features
+## Prerequisites
 
-Here are some examples of what you can ask Desktop Assistant:
+In order to use the Gesture Volume Control application, you will need to have the following installed on your system:
 
-- "What time is it now?"
-- "Search something on Google"
-- "Search something on Youtube"
-- "Open Visual Studio Code"
-- "Open GitHub"
-- "Open Classroom"
-- "Open File explorer"
-- "Open Notepad"
-- "Open browser"
-- "Open Youtube"
+- A webcam
+- Python 3
+- OpenCV
+
+## Implementation of Gesture Volume Control
+
+![GVC Example](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+
+Gesture Volume Control is a software application that allows users to control the volume of their computer using simple hand gestures. The application uses a webcam to detect and interpret the hand gestures made by the user, and then adjusts the volume of the computer accordingly.
+
+![Zero Percent](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+
+To use the Gesture Volume Control application, users must first ensure that they have a webcam and that it is properly configured and working on their computer. Once the webcam is set up, users can launch the Gesture Volume Control application and begin using it to control the volume of their computer.
+
+![Mid Percent](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+
+To adjust the volume, users can simply make a hand gesture in front of the webcam. The application will interpret the gesture and adjust the volume accordingly. For example, to increase the volume, users can make a "thumbs up" gesture, and to decrease the volume, they can make a "thumbs down" gesture.
+
+![Hundred Percent](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+
+The Gesture Volume Control application is easy to use and provides a convenient and intuitive way for users to control the volume of their computer without the need for a keyboard or mouse. It is an ideal solution for users who prefer to use hand gestures to control their computer or for those who have mobility impairments that make it difficult to use traditional input devices.
 
 ![image of features](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
 
@@ -43,10 +54,9 @@ Here are some examples of what you can ask Desktop Assistant:
 * time
 * math
 
-
 ## Installation
 
-### Get the Amadeus Repository now.
+### Get the Gesture Volume Control Repository now.
 
 To download a Amadeus project, you can use the git clone command. This command creates a copy of the repository in a new directory on your local machine.
 ```
@@ -65,19 +75,13 @@ pip install -r requirements.txt
 ```
 This will create a new virtual environment called myenv, activate it, and then install the required packages.
 
-### Installation of the Amadeus 
-To install an executable file of Amadeus, you can follow these steps:
+### Usage
 
-1. Download the executable file from the Amadeus repository. You can do this by clicking on the file and then clicking the "Download" button, or by using the `curl` or `wget` command to download the file directly from the command line.
-2. Make the file executable. In Linux or macOS, you can use the `chmod` command to give the file execute permissions:
+To use the Gesture Volume Control application, simply run the following command:
 ```
-chmod +x /path/to/amadeus.exe
+python gesture-volume-control.py
 ```
-3. Run the executable file. You can do this by double-clicking on the file in a file manager, or by running the following command in the terminal:
-```
-./amadeus.exe
-```
-4. Keep in mind that some executable files may require certain dependencies or libraries to be installed in order to run correctly. You may need to install these dependencies manually or using a package manager, such as `apt` or `yum`, before you can run the executable file.
+The application will launch and begin detecting and interpreting hand gestures made in front of the webcam. To adjust the volume, you can make a "thumbs up" gesture to increase the volume, or a "thumbs down" gesture to decrease the volume.
 
 ## Authors
 

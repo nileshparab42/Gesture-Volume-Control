@@ -1,4 +1,4 @@
-![Cover image](https://github.com/nileshparab42/Amadeus/blob/master/assets/Amadeus-Cover.png)
+![Cover image](https://github.com/nileshparab42/Gesture-Volume-Control/blob/master/assets/GVC-Cover.png)
 
 # Gesture Volume Control
 
@@ -18,23 +18,22 @@ In order to use the Gesture Volume Control application, you will need to have th
 
 ## Implementation of Gesture Volume Control
 
-![GVC Example](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+![GVC Example](https://github.com/nileshparab42/Gesture-Volume-Control/blob/master/assets/GVC-Example.png)
 
 Gesture Volume Control is a software application that allows users to control the volume of their computer using simple hand gestures. The application uses a webcam to detect and interpret the hand gestures made by the user, and then adjusts the volume of the computer accordingly.
 
-![Zero Percent](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
-
 To use the Gesture Volume Control application, users must first ensure that they have a webcam and that it is properly configured and working on their computer. Once the webcam is set up, users can launch the Gesture Volume Control application and begin using it to control the volume of their computer.
 
-![Mid Percent](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+![Zero Percent](https://github.com/nileshparab42/Gesture-Volume-Control/blob/master/assets/zero-percent.png)
 
 To adjust the volume, users can simply make a hand gesture in front of the webcam. The application will interpret the gesture and adjust the volume accordingly. For example, to increase the volume, users can make a "thumbs up" gesture, and to decrease the volume, they can make a "thumbs down" gesture.
 
-![Hundred Percent](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+
+![Mid Percent](https://github.com/nileshparab42/Gesture-Volume-Control/blob/master/assets/mid-percent.png)
 
 The Gesture Volume Control application is easy to use and provides a convenient and intuitive way for users to control the volume of their computer without the need for a keyboard or mouse. It is an ideal solution for users who prefer to use hand gestures to control their computer or for those who have mobility impairments that make it difficult to use traditional input devices.
 
-![image of features](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+![Hundred Percent](https://github.com/nileshparab42/Gesture-Volume-Control/blob/master/assets/hundred-percent.png)
 
 
 ## Getting Started

@@ -7,14 +7,6 @@ The Desktop Assistant is designed to help users with tasks, information, and com
 ## Description
 
 This project is a software application that allows users to control the volume of their computer using simple hand gestures. The application uses a webcam to detect and interpret the hand gestures made by the user, and then adjusts the volume of the computer accordingly.
- 
-## Prerequisites
-
-In order to use the Gesture Volume Control application, you will need to have the following installed on your system:
-
-- A webcam
-- Python 3
-- OpenCV
 
 ## Implementation of Gesture Volume Control
 
@@ -59,7 +51,7 @@ The Gesture Volume Control application is easy to use and provides a convenient 
 
 To download a Amadeus project, you can use the git clone command. This command creates a copy of the repository in a new directory on your local machine.
 ```
-git clone https://github.com/nileshparab42/Amadeus.git
+git clone https://github.com/nileshparab42/Gesture-Volume-Control.git
 ```
 To set up the project, you can use the pip command to install the required packages specified in the requirements.txt file.
 ```
@@ -78,7 +70,7 @@ This will create a new virtual environment called myenv, activate it, and then i
 
 To use the Gesture Volume Control application, simply run the following command:
 ```
-python gesture-volume-control.py
+python VolumeHandControl.py
 ```
 The application will launch and begin detecting and interpreting hand gestures made in front of the webcam. To adjust the volume, you can make a "thumbs up" gesture to increase the volume, or a "thumbs down" gesture to decrease the volume.
 

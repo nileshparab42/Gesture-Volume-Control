@@ -72,7 +72,7 @@ To use the Gesture Volume Control application, simply run the following command:
 ```
 python VolumeHandControl.py
 ```
-The application will launch and begin detecting and interpreting hand gestures made in front of the webcam. To adjust the volume, you can make a "thumbs up" gesture to increase the volume, or a "thumbs down" gesture to decrease the volume.
+The application will launch and begin detecting and interpreting hand gestures made in front of the webcam. To adjust the volume, use thumb and the index finger.
 
 ## Authors
 
